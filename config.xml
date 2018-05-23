@@ -5,7 +5,7 @@ xmlns:gap ="http://phonegap.com/ns/1.0"
 id ="com.phonegap.app7"
 version ="1.0.0">
 
-<name> app7 deslizar havia la izquierda y derecha </name>
+<name> app7 deslizar hacia la izquierda y derecha </name>
 
 <description>
 aplicacion que realiza el swipe o desplazamiento en el dispositivo
